@@ -37,7 +37,7 @@
 
 import praw
 import requests
-import ConfigParser
+import configparser as ConfigParser
 
 # Name of subreddit to perform spoiler marking on.
 subreddit = "MysteryDungeon"  # CASE SENSITIVE, don't include the /r/

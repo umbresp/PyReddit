@@ -36,7 +36,7 @@
 
 import praw
 import datetime
-import ConfigParser
+import configparser as ConfigParser
 
 # Name of subreddit you want to archive modmail from. CASE SENSITIVE, no /r/
 sub = 'gumballmemes' # shameless plug

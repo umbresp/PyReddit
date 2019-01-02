@@ -36,7 +36,7 @@
 
 import praw
 import datetime
-import ConfigParser
+import configparser as ConfigParser
 
 subreddit = "announcements"  # CASE SENSITIVE, don't include the /r/
 

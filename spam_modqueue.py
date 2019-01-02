@@ -38,7 +38,7 @@
 
 import praw
 import datetime
-import ConfigParser
+import configparser as ConfigParser
 
 # The subreddit you want to approve all posts in the 
 # unmoderated queue for.

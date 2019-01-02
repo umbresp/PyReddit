@@ -35,7 +35,7 @@
 # REMEMBER TO FILL OUT sub, karma_limit, and text!
 
 import praw
-import ConfigParser
+import configparser as ConfigParser
 
 # Name of subreddit you want to flair posts from. CASE SENSITIVE, no /r/
 sub = 'masterhacker' # shameless plug
